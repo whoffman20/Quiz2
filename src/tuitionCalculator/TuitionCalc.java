@@ -22,6 +22,6 @@ public class TuitionCalc {
 			input.close();
 		}
 		
-		System.out.printf("The total tuition is" + total);
+		System.out.println("The total tuition is" + total);
 	}
 }
